@@ -8,7 +8,7 @@ I’m a **Senior at the University of Illinois Chicago (UIC)**, majoring in **In
 
 ## 🚀 About Me
 
-- 🎓 **Junior at UIC** | Major: Information & Decision Sciences | Minor: Finance
+- 🎓 **Senior at UIC** | Major: Information & Decision Sciences | Minor: Finance
 - 💡 **AI & ML Enthusiast** | Building impactful software solutions to drive change
 - 💼 **Current Role**: Technology Solutions Assistant at UIC, resolving tech challenges for students and enhancing their digital experience
 - 💻 **Learning & Building**: 
