@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I’m a **Senior at the University of Illinois Chicago (UIC)**, majoring in **Information Sciences**. I’m an aspiring **software engineer** who’s passionate about exploring the intersection of **Artificial Intelligence (AI)** and **Machine Learning (ML)** to solve real-world problems and drive innovation.
+I’m a **Senior at the University of Illinois Chicago (UIC)**, majoring in **Computer Science**. I’m an aspiring **software engineer** who’s passionate about exploring the intersection of **Artificial Intelligence (AI)** and **Machine Learning (ML)** to solve real-world problems and drive innovation.
 
 ---
 
